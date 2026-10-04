@@ -21,9 +21,11 @@ On tablet, two boxes are displayed in the first row and one in the second row.
 On mobile, all boxes are displayed vertically.
 
 task2:
-<img width="1915" height="471" alt="image" src="https://github.com/user-attachments/assets/7b742d90-df38-4b10-b445-cb47947b0d9a" />
+<img width="1886" height="617" alt="image" src="https://github.com/user-attachments/assets/ea82ffd8-a0e4-4fab-abf5-66b6b1c43c3d" />
+
 task3:
-<img width="1903" height="873" alt="image" src="https://github.com/user-attachments/assets/b0944de0-762b-488b-b98b-ee93e86a3692" />
+<img width="1867" height="890" alt="image" src="https://github.com/user-attachments/assets/6d634023-b166-414a-ae9e-ca2f48276602" />
+
 
 
 
