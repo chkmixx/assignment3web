@@ -27,12 +27,9 @@ I created a responsive navigation bar using Bootstrap.It has a logo on the left 
 task4:
 <img width="1861" height="882" alt="image" src="https://github.com/user-attachments/assets/9a284162-2edd-44a0-9d59-906979a55efb" />
 <img width="893" height="905" alt="image" src="https://github.com/user-attachments/assets/516a9760-fbfa-4a11-be37-be4ebf572b96" />
- I created a responsive portfolio page which includes:
-- navigation bar
-- projects
-- About Me section
-- contact information
-- footer
+<img width="921" height="848" alt="image" src="https://github.com/user-attachments/assets/06612e8b-3855-4316-af59-8ac02aaa000d" />
+
+I created a responsive portfolio page which includes:navigation bar,projects, About Me section, contact information, footer
 I used Bootstrap Grid and CSS media queries to make the page responsive.
 
 
