@@ -11,3 +11,13 @@ PART 1:task0:
 
 
 and here by using css
+
+task1:
+<img width="1903" height="683" alt="image" src="https://github.com/user-attachments/assets/10a3c570-e1db-4690-9304-36d0d08b4aca" />
+I created three responsive boxes using CSS media queries.
+
+On desktop, the boxes are displayed in one row.
+On tablet, two boxes are displayed in the first row and one in the second row.
+On mobile, all boxes are displayed vertically.
+
+
