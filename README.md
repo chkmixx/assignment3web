@@ -8,7 +8,9 @@ PART 1:task0:
 The font size changes depending on the screen size.
 
 task1:
-<img width="1903" height="683" alt="image" src="https://github.com/user-attachments/assets/10a3c570-e1db-4690-9304-36d0d08b4aca" />
+<img width="1860" height="276" alt="image" src="https://github.com/user-attachments/assets/e9028c80-de1b-4515-83ac-789e16c30f0a" />
+<img width="911" height="455" alt="image" src="https://github.com/user-attachments/assets/f3c64183-409e-4ab5-8507-5375c1f7c7e3" />
+
 I created three responsive boxes using CSS media queries.
 On desktop, the boxes are displayed in one row.On tablet, two boxes are displayed in the first row and one in the second row.On mobile, all boxes are displayed vertically.
 
