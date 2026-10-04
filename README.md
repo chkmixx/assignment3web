@@ -18,13 +18,26 @@ I created three responsive boxes using CSS media queries.
 On desktop, the boxes are displayed in one row.On tablet, two boxes are displayed in the first row and one in the second row.On mobile, all boxes are displayed vertically.
 
 task2:
-<img width="1886" height="617" alt="image" src="https://github.com/user-attachments/assets/ea82ffd8-a0e4-4fab-abf5-66b6b1c43c3d" />
+<img width="1911" height="872" alt="image" src="https://github.com/user-attachments/assets/06c097c0-93bd-416c-bb39-a96d03173ec3" />
+On desktop there are three equal columns.On tablet there are two columns in the first row and one in the second row.On mobile all columns are stacked.
+<img width="940" height="906" alt="image" src="https://github.com/user-attachments/assets/e8b9d36c-d1f5-41bd-8972-750f6e0531c6" />
+
 
 task3:
 <img width="1867" height="890" alt="image" src="https://github.com/user-attachments/assets/6d634023-b166-414a-ae9e-ca2f48276602" />
 <img width="962" height="905" alt="image" src="https://github.com/user-attachments/assets/e9865e25-2fc9-41fc-bd4c-3c94d9df00e7" />
 I created a responsive navigation bar using Bootstrap.It has a logo on the left and navigation links on the right.On smaller screens, the links collapse into a hamburger menu.
 
+task4:
+<img width="1861" height="882" alt="image" src="https://github.com/user-attachments/assets/9a284162-2edd-44a0-9d59-906979a55efb" />
+<img width="893" height="905" alt="image" src="https://github.com/user-attachments/assets/516a9760-fbfa-4a11-be37-be4ebf572b96" />
+ I created a responsive portfolio page which includes:
+- navigation bar
+- projects
+- About Me section
+- contact information
+- footer
+I used Bootstrap Grid and CSS media queries to make the page responsive.
 
 
 
