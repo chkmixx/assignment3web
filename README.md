@@ -7,6 +7,7 @@ PART 1:task0:
 
  ive created a simple web page using html
  
-<img width="1907" height="432" alt="image" src="https://github.com/user-attachments/assets/82b3d80a-7f02-4faa-8c15-5b63eecd31a7" />
+<img width="1501" height="547" alt="image" src="https://github.com/user-attachments/assets/ab9489f1-0835-490f-af7d-5044adfa03d4" />
+
 
 and here by using css
